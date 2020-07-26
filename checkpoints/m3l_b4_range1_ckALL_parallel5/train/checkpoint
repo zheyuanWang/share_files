@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/zwang/Documents/share_files/checkpoints/m3l_b4_range1_ckALL_parallel5/train/model.ckpt-250000"
+
