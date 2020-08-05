@@ -1,0 +1,2 @@
+model_checkpoint_path: "/mrtstorage/users/zwang/github_zheyuan/share_files/checkpoints/m3l_b4_r1_n8_int1_ckALL_1x1conv/train/model.ckpt-250000"
+
