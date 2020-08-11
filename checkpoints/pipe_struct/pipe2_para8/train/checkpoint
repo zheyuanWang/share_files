@@ -1,0 +1,2 @@
+model_checkpoint_path: "/mrtstorage/users/zwang/github_zheyuan/share_files/checkpoints/pipe_struct/pipe2_para8/train/model.ckpt-250000"
+
