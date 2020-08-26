@@ -1,0 +1,2 @@
+model_checkpoint_path: "/mrtstorage/users/zwang/github_zheyuan/share_files/checkpoints/mobilenet_checkpoint/m3l_b4_range8_baseline1F/train/model.ckpt-250000"
+
