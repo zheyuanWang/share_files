@@ -1,0 +1,3 @@
+model_checkpoint_path: "/mrtstorage/users/zwang/github_zheyuan/share_files/checkpoints/reuse_struct/b4_reuse_n11_xyr_cFZ_intr2_IOU4071/model.ckpt-194690"
+all_model_checkpoint_paths: "/mrtstorage/users/zwang/github_zheyuan/mrt_experiments/m3l_1x1_xyr_centerFZ/b4_reuse_n11_xyr_cFZ_intr2_250goon/train/model.ckpt-194690"
+
